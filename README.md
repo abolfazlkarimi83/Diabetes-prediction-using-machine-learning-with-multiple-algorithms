@@ -12,8 +12,6 @@ This project aims to:
 - Train and evaluate several machine learning models.
 - Compare their performance visually.
 
-All the steps are implemented clearly (cell by cell) to keep the code simple and educational — perfect for beginners and also suitable as a portfolio project on GitHub.
-
 ---
 
 ##  Used Technologies & Libraries
