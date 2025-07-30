@@ -38,12 +38,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 Clone this repository and open the notebook:
 
 ```bash
-git clone https://github.com/your-username/diabetes-prediction.git
+git clone https://github.com/abolfazlkarimi83/diabetes-prediction.git
 cd diabetes-prediction
 jupyter notebook Diabetes_Prediction.ipynb
 ```
-
-Replace `"your-username"` with your actual GitHub username.
 
 ---
 
